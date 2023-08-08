@@ -9,7 +9,6 @@
     width: 100%;
     min-height: 100vh;
     background-color: #fff;
-    margin-bottom: 10rem;
 }
 
 /* NAVBAR */
@@ -25,7 +24,7 @@
     font-size: 14px;
     margin-left: 20px;
 }
-.navbar .button {
+.navbar .register {
     height: 30px;
     width:80px;
     margin-left: 20px;
@@ -35,6 +34,8 @@
     font-weight: bold;
     border-radius: 20px;
     border: 1px solid #000;
+    text-decoration: none;
+    text-align: center;
 }
 .navbar .join{
     background-color: #000;
