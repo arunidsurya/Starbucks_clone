@@ -1,3 +1,15 @@
+function imgSlider(anything){
+    document.querySelector('.starbucks').src = anything;
+}
+
+function changeCircleColor(color){
+    const circle = document.querySelector('.circle');
+    circle.style.background= color;
+}
+
+
+
+
 const form = document.getElementById('form');
 const username = document.getElementById('username');
 const email = document.getElementById('email');
